@@ -1,3 +1,5 @@
+This repository has been migrated. For ongoing updates, please see https://github.com/thinkjs/thinkjs/tree/master/packages/think-view-ejs.
+
 # think-view-ejs
 [![Build Status](https://img.shields.io/travis/thinkjs/think-view-ejs/master.svg?style=flat-square)](https://travis-ci.org/thinkjs/think-view-ejs)
 [![Coverage Status](https://img.shields.io/coveralls/thinkjs/think-view-ejs/master.svg?style=flat-square)](https://coveralls.io/github/thinkjs/think-view-ejs?branch=master)
